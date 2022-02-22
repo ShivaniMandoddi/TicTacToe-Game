@@ -1,0 +1,7 @@
+C:\Users\Shivani.Mandoddi\Desktop\Scripts\Program\TicTacToeGame\TicTacToeGame\bin\Debug\TicTacToeGame.exe.config
+C:\Users\Shivani.Mandoddi\Desktop\Scripts\Program\TicTacToeGame\TicTacToeGame\bin\Debug\TicTacToeGame.exe
+C:\Users\Shivani.Mandoddi\Desktop\Scripts\Program\TicTacToeGame\TicTacToeGame\bin\Debug\TicTacToeGame.pdb
+C:\Users\Shivani.Mandoddi\Desktop\Scripts\Program\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.AssemblyReference.cache
+C:\Users\Shivani.Mandoddi\Desktop\Scripts\Program\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.CoreCompileInputs.cache
+C:\Users\Shivani.Mandoddi\Desktop\Scripts\Program\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.exe
+C:\Users\Shivani.Mandoddi\Desktop\Scripts\Program\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.pdb
